@@ -8,6 +8,13 @@
 
 This code does not execute properly. Try to figure out why.
 
+## Código original
+
+```python
+def multiply(a, b):
+    a * b
+```
+
 ## Solução — Python
 
 ```python
@@ -15,3 +22,5 @@ def multiply(a, b):
     res = a * b
     return res
 ```
+
+**Erro corrigido:** a função original calculava `a * b`, mas não retornava o resultado.
