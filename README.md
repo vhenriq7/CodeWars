@@ -1,6 +1,6 @@
-# CodeWars
+# Exercícios
 
-Exercícios de programação resolvidos no Codewars.
+Exercícios de programação resolvidos
 
 ## Python
 
