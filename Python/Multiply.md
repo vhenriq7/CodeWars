@@ -22,5 +22,3 @@ def multiply(a, b):
     res = a * b
     return res
 ```
-
-**Erro corrigido:** a função original calculava `a * b`, mas não retornava o resultado.
