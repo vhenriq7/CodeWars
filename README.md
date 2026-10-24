@@ -1,9 +1,9 @@
 # Exercícios
 
-Exercícios de programação resolvidos
+Exercícios de programação resolvidos.
 
 ## Python
 
-Cada desafio tem sua própria pasta dentro de `Python/`, com a descrição do problema em `README.md` e, quando adicionada, a solução em `solution.py`.
+Cada desafio fica em um único arquivo `.md`, com o enunciado e a solução.
 
-Exemplo: [`Python/Even-or-Odd/`](Python/Even-or-Odd/).
+- [Even or Odd](Python/Even-or-Odd.md)
