@@ -1,12 +1,9 @@
 # CodeWars
 
-Repositório de soluções de desafios do [Codewars](https://www.codewars.com/), organizado automaticamente pela extensão CodeHub.
+Exercícios de programação resolvidos no Codewars.
 
-## Estrutura
+## Python
 
-- `python/8-kyu/`: exercícios iniciais em Python.
-- `java/8-kyu/`: exercícios iniciais em Java.
+Cada desafio tem sua própria pasta dentro de `Python/`, com a descrição do problema em `README.md` e, quando adicionada, a solução em `solution.py`.
 
-Na extensão CodeHub, selecione **Language → Level → Problem** para que os próximos exercícios sejam organizados primeiro por linguagem, depois por dificuldade e por desafio. O nível e as pastas são criados automaticamente ao enviar uma nova solução.
-
-As soluções são adicionadas após cada desafio resolvido; não é necessário copiar o código manualmente após configurar a integração.
+Exemplo: [`Python/Even-or-Odd/`](Python/Even-or-Odd/).
