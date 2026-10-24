@@ -1,9 +1,14 @@
-# Exercícios
+# Desafios
 
-Exercícios de programação resolvidos.
+Exercícios de programação.
 
-## Python
+## Sites
 
-Cada desafio fica em um único arquivo `.md`, com o enunciado e a solução.
+- [HackerRank](https://www.hackerrank.com/)
+- [Codewars](https://www.codewars.com/)
+- [LeetCode](https://leetcode.com/)
+- [Roadmap](https://roadmap.sh/)
 
-- [Even or Odd](Python/Even-or-Odd.md)
+## Exercícios
+
+- [Python — Even or Odd](Python/Even-or-Odd.md)
